@@ -1,4 +1,5 @@
-* 梅雨入り梅雨明け
+# 梅雨入り梅雨明け
+ - ファイル名 : tuyu.csv
  - ソース
    - https://www.data.jma.go.jp/cpd/baiu/sokuhou_baiu.html
    - https://www.data.jma.go.jp/cpd/baiu/index.html
